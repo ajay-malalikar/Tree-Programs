@@ -1,0 +1,8 @@
+c:\users\ajaym\documents\visual studio 2015\Projects\Trees Programs\Trees Programs\bin\Debug\Trees Programs.exe.config
+c:\users\ajaym\documents\visual studio 2015\Projects\Trees Programs\Trees Programs\bin\Debug\Trees Programs.exe
+c:\users\ajaym\documents\visual studio 2015\Projects\Trees Programs\Trees Programs\bin\Debug\Trees Programs.pdb
+c:\users\ajaym\documents\visual studio 2015\Projects\Trees Programs\Trees Programs\bin\Debug\Tree Utilities.dll
+c:\users\ajaym\documents\visual studio 2015\Projects\Trees Programs\Trees Programs\bin\Debug\Tree Utilities.pdb
+c:\users\ajaym\documents\visual studio 2015\Projects\Trees Programs\Trees Programs\obj\Debug\BSTs.csprojResolveAssemblyReference.cache
+c:\users\ajaym\documents\visual studio 2015\Projects\Trees Programs\Trees Programs\obj\Debug\Trees Programs.exe
+c:\users\ajaym\documents\visual studio 2015\Projects\Trees Programs\Trees Programs\obj\Debug\Trees Programs.pdb
